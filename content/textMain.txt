@@ -1,0 +1,3 @@
+The content added is:
+this is text of text1.txt
+this is the text of text2.txt

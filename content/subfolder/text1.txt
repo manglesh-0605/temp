@@ -1,0 +1,1 @@
+this is text of text1.txt
